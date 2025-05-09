@@ -23,7 +23,6 @@ def goals():
                 max_width="1000px",
                 text_align="center",
                 font_size="20px",
-                color="white",
             ),
             rx.image(
                 src="/gorilla.svg",

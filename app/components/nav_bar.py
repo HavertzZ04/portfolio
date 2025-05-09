@@ -2,7 +2,7 @@ import reflex as rx
 
 def navbar_link(text: str, url: str):
     return rx.link(
-        rx.text(text, size="4", weight="medium", color="#F0FFFF"), href=url
+        rx.text(text, size="4", weight="medium", color_scheme="indigo", high_contrast=True,), href=url
     )
 
 def navbar():
@@ -11,7 +11,7 @@ def navbar():
             rx.hstack(
                 rx.hstack(
                     rx.heading(
-                        "Hello World! 🌎", size="7", weight="bold", color="#F0FFFF"
+                        "Hello World! 🌎", size="7", weight="bold", color_scheme="indigo", high_contrast=True,
                     ),
                     align_items="center",
                 ),

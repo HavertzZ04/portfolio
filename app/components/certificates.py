@@ -52,8 +52,7 @@ def certificates():
         width="100%",
         padding_bottom="60px",
         background_color="rgba(1, 11, 19, 0.5)",
-        backdrop_filter="blur(10px)",             
-        color="#F0FFFF",
+        backdrop_filter="blur(10px)",            
         id="certificates"
         
     )

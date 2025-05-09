@@ -47,7 +47,6 @@ def projects():
                             rx.link(
                                 "Twitter Bot",
                                 href="https://x.com/universe_images",
-                                color="#F0FFFF",
                                 is_external=True
                             ),
                         ),
@@ -76,7 +75,6 @@ def projects():
                             rx.link(
                                 "Pokedex",
                                 href="https://havertzz04.github.io/Pokedex/",
-                                color="#F0FFFF",
                                 is_external=True
                             ),
                         ),
@@ -105,7 +103,6 @@ def projects():
                             rx.link(
                                 "ZZ-Player",
                                 href="https://havertzz04.github.io/MP3-ZZ/",
-                                color="#F0FFFF",
                                 is_external=True
                             ),
                         ),
@@ -134,7 +131,6 @@ def projects():
                             rx.link(
                                 "CR7 Website Fanatic",
                                 href="https://havertzz04.github.io/CR7-Website-Fanatic/",
-                                color="#F0FFFF",
                                 is_external=True
                             ),
                         ),
@@ -163,7 +159,6 @@ def projects():
                             rx.link(
                                 "Money Assistance",
                                 href="https://havertzz04.github.io/Money-Assistant/",
-                                color="#F0FFFF",
                                 is_external=True
                             ),
                         ),
@@ -192,7 +187,6 @@ def projects():
                             rx.link(
                                 "Pomodoro Timer",
                                 href="https://havertzz04.github.io/Weather-Forecaster/",
-                                color="#F0FFFF",
                                 is_external=True
                             ),
                         ),
@@ -221,7 +215,6 @@ def projects():
                             rx.link(
                                 "Encryptor",
                                 href="https://havertzz04.github.io/alura-encryptor/",
-                                color="#F0FFFF",
                                 is_external=True
                             ),
                         ),
@@ -250,7 +243,6 @@ def projects():
                             rx.link(
                                 "Contact Form Template",
                                 href="https://havertzz04.github.io/Actividad_Maquetacion/",
-                                color="#F0FFFF",
                                 is_external=True
                             ),
                         ),
@@ -279,7 +271,6 @@ def projects():
                             rx.link(
                                 "Body Mass Index",
                                 href="https://havertzz04.github.io/BMI-Body-Mass-Index/",
-                                color="#F0FFFF",
                                 is_external=True
                             ),
                         ),

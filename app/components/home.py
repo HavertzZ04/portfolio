@@ -35,7 +35,6 @@ def home():
             backdrop_filter="blur(10px)",             
             border="1px solid rgba(255, 255, 255, 0.2)",
             border_radius="20px",
-            color="#F0FFFF",
         ),
         id="home"
     )
