@@ -36,7 +36,7 @@ def goals():
         bg="#010B13",
         width="100%",
         padding_top="25px",
-        padding_bottom="50px",
+        padding_bottom="48px",
         id="goals"
         
     )

@@ -18,5 +18,5 @@ def footer():
         ),
         bg="#010B13",
         width="100%",
-        padding_bottom="40px",
+        padding_bottom="25px",
     )

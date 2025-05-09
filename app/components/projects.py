@@ -47,11 +47,13 @@ def projects():
                             rx.link(
                                 "Twitter Bot",
                                 href="https://x.com/universe_images",
-                                is_external=True
+                                is_external=True,
+                                underline="none"
                             ),
                         ),
                         text_align="center",
-                        padding_top="10px"
+                        padding_top="10px",
+                        color_scheme="cyan",      
                     ),
                     rx.text(
                         "Bot that daily posts a NASA Universe image to X automatically using the NASA API.",
@@ -75,11 +77,13 @@ def projects():
                             rx.link(
                                 "Pokedex",
                                 href="https://havertzz04.github.io/Pokedex/",
-                                is_external=True
+                                is_external=True,
+                                underline="none"
                             ),
                         ),
                         text_align="center",
-                        padding_top="10px"
+                        padding_top="10px",
+                        color_scheme="cyan",
                     ),
                     rx.text(
                         "Web Pokédex using Pokémon API to search and view each Pokémon's stats by name.",
@@ -103,11 +107,13 @@ def projects():
                             rx.link(
                                 "ZZ-Player",
                                 href="https://havertzz04.github.io/MP3-ZZ/",
-                                is_external=True
+                                is_external=True,
+                                underline="none"
                             ),
                         ),
                         text_align="center",
-                        padding_top="10px"
+                        padding_top="10px",
+                        color_scheme="cyan",
                     ),
                     rx.text(
                         "Mini music player with MP3 features like pause, shuffle, next, and previous—similar to Spotify using selected songs.",
@@ -131,11 +137,13 @@ def projects():
                             rx.link(
                                 "CR7 Website Fanatic",
                                 href="https://havertzz04.github.io/CR7-Website-Fanatic/",
-                                is_external=True
+                                is_external=True,
+                                underline="none"
                             ),
                         ),
                         text_align="center",
-                        padding_top="10px"
+                        padding_top="10px",
+                        color_scheme="cyan",
                     ),
                     rx.text(
                         "Page created to practice layout design and JS modularization, also a small tribute to my favorite player CR7.",
@@ -159,11 +167,13 @@ def projects():
                             rx.link(
                                 "Money Assistance",
                                 href="https://havertzz04.github.io/Money-Assistant/",
-                                is_external=True
+                                is_external=True,
+                                underline="none"
                             ),
                         ),
                         text_align="center",
-                        padding_top="10px"
+                        padding_top="10px",
+                        color_scheme="cyan",                        
                     ),
                     rx.text(
                         "Tool to add income and expenses, helping track and manage personal finances effectively.",
@@ -187,11 +197,14 @@ def projects():
                             rx.link(
                                 "Pomodoro Timer",
                                 href="https://havertzz04.github.io/Weather-Forecaster/",
-                                is_external=True
+                                is_external=True,
+                                underline="none"
                             ),
                         ),
                         text_align="center",
-                        padding_top="10px"
+                        padding_top="10px",
+                        color_scheme="cyan",
+                        
                     ),
                     rx.text(
                         "I enjoy studying and productivity, so I built my own Pomodoro tool to manage my time effectively.",
@@ -215,11 +228,13 @@ def projects():
                             rx.link(
                                 "Encryptor",
                                 href="https://havertzz04.github.io/alura-encryptor/",
-                                is_external=True
+                                is_external=True,
+                                underline="none"
                             ),
                         ),
                         text_align="center",
-                        padding_top="10px"
+                        padding_top="10px",
+                        color_scheme="cyan",
                     ),
                     rx.text(
                         "This tool lets you encrypt and decrypt “important” texts lol",
@@ -243,11 +258,13 @@ def projects():
                             rx.link(
                                 "Contact Form Template",
                                 href="https://havertzz04.github.io/Actividad_Maquetacion/",
-                                is_external=True
+                                is_external=True,
+                                underline="none",                                                           
                             ),
                         ),
                         text_align="center",
-                        padding_top="10px"
+                        padding_top="10px",
+                        color_scheme="cyan",
                     ),
                     rx.text(
                         "I took an HTML form and added full design and color to create this piece.",
@@ -271,11 +288,14 @@ def projects():
                             rx.link(
                                 "Body Mass Index",
                                 href="https://havertzz04.github.io/BMI-Body-Mass-Index/",
-                                is_external=True
+                                is_external=True,
+                                underline="none"
+                                
                             ),
                         ),
                         text_align="center",
-                        padding_top="10px"
+                        padding_top="10px",
+                        color_scheme="cyan"
                     ),
                     rx.text(
                         "One of my first projects, made while I went to the gym, to calculate my BMI and my friends’.",
@@ -288,13 +308,13 @@ def projects():
                 spacing="4",
                 margin_top="50px",
                 max_width="90vw",
-            )
+            ),
         ),
         bg="#010B13",
         padding="1em",
         width="100%",
         margin_top="100px",
         padding_bottom="75px",
-        id="projects"
+        id="projects",
         
     )
